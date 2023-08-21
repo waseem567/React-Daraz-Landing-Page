@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Daraz-Landing-Page/static/css/main.7fb6d7c2.css",
+    "main.js": "/React-Daraz-Landing-Page/static/js/main.28b31abe.js",
+    "static/js/787.71862223.chunk.js": "/React-Daraz-Landing-Page/static/js/787.71862223.chunk.js",
+    "static/media/2.jpg": "/React-Daraz-Landing-Page/static/media/2.26ffb1e91a78a36e6ddb.jpg",
+    "static/media/3.jpg": "/React-Daraz-Landing-Page/static/media/3.63ced580dba5644c02cc.jpg",
+    "static/media/1.jpg": "/React-Daraz-Landing-Page/static/media/1.4ee08a69af72e6ca066c.jpg",
+    "index.html": "/React-Daraz-Landing-Page/index.html",
+    "main.7fb6d7c2.css.map": "/React-Daraz-Landing-Page/static/css/main.7fb6d7c2.css.map",
+    "main.28b31abe.js.map": "/React-Daraz-Landing-Page/static/js/main.28b31abe.js.map",
+    "787.71862223.chunk.js.map": "/React-Daraz-Landing-Page/static/js/787.71862223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb6d7c2.css",
+    "static/js/main.28b31abe.js"
+  ]
+}
