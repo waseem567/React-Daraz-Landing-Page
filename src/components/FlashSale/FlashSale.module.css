@@ -1,0 +1,85 @@
+.flashSale__row{
+    border-bottom: 1px solid gray;
+    padding: 10px 0px;
+}
+
+.background{
+    background-color: #f5f5f5;
+    background-repeat: no-repeat;
+}
+.flashSale__text{
+    width: 188px;
+    height: 36px;
+    line-height: 18px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    margin-bottom: 4px;
+    font-size: 14px;
+    font-family: Roboto-Regular,'Helvetica Neue',Helvetica,Tahoma,Arial,Sans-serif;
+    padding: 4px;
+}
+.flashSale__price{
+    margin-bottom: 4px;
+    font-size: 18px;
+    color: #f85606;
+    letter-spacing: -.56px;
+    line-height: 22px;
+    height: 22px;
+    padding: 4px;
+}
+.flashSale__originPrice{
+    font-size: 12px;
+    line-height: 12px;
+    margin-bottom: 4px;
+    padding: 4px;
+  
+}
+.flashSale__oldPrice{
+    color: #9e9e9e;
+    text-decoration: line-through;
+  
+}
+.flashSale__discount{
+    color: #212121;
+    margin-left: 4px;
+    background: white;
+}
+.product__card{
+    max-height: 290px;
+    max-width: 100%;
+}
+.product__card img{
+    display: block;
+    width: 100%;
+}
+.product__card:hover{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.product_card{
+    padding: 0 !important;
+    margin: .5px;
+}
+.productCard__forYou{
+    padding: 0 !important;
+    max-width: 190px;
+    margin: 3px;
+}
+.products__row{
+    justify-content: space-around !important;  
+    background-color: #f5f5f5;
+    padding: 10px 0px; 
+}
+.grayText{
+    font-family: Roboto-Regular,'Helvetica Neue',Helvetica,Tahoma,Arial,Sans-serif;
+    color: #9e9e9e;
+    margin: 0;
+    padding: 0;
+}
+.w100{
+    width: 100%;
+}
+.bgWhite{
+    background: white;
+}
