@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Live at --> https://waseem567.github.io/React-Daraz-Landing-Page/
+
 * Desktop View
 ![darazffl](https://github.com/waseem567/React-Daraz-Landing-Page/assets/90834559/b5273b68-7141-46f5-8548-e9c149f60d92)
 * Mobile View
